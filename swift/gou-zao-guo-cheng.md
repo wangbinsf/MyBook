@@ -94,7 +94,6 @@ Vehicle类只为存储型属性提供默认值，而不自定义构造器。因�
 对于规则 2，子类可以将父类的指定构造器实现为便利构造器。
 
 ###可失败构造器
-
 ```
 struct Animal {
     let species: String
@@ -104,4 +103,7 @@ struct Animal {
     }
 }
 ```
+
+
+
 
