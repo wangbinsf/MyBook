@@ -6,5 +6,5 @@
   * [闭包](swift/bi-bao.md)
   * [枚举](swift/mei-ju.md)
   * [属性](swift/shu-xing.md)
-  * 继承
+  * [继承](swift/ji-cheng.md)
 
