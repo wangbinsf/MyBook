@@ -7,4 +7,6 @@
   * [枚举](swift/mei-ju.md)
   * [属性](swift/shu-xing.md)
   * [继承](swift/ji-cheng.md)
+  * [类型转换](swift/lei-xing-zhuan-huan.md)
+  * [扩展](swift/kuo-zhan.md)
 
