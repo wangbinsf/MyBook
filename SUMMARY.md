@@ -13,4 +13,5 @@
 * [GCD](asyncafter.md)
   * [asyncAfter](asyncafter/asyncafter.md)
   * [custom asyncAfter](asyncafter/custom-asyncafter.md)
+* [Codable](codable.md)
 
